@@ -1,0 +1,23 @@
+img {
+    height: auto;
+    width: 300px;
+}
+
+.heading,
+.desc,
+.ing,
+.ins,
+.name {text-align: center;}
+
+.heading {
+    color: grey;
+}
+
+.desc,
+.ing,
+.ins {
+    font-weight: 900;
+    background-color: bisque;
+    color: darkolivegreen;
+}
+
