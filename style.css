@@ -1,13 +1,25 @@
+div {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
 img {
     height: auto;
     width: 300px;
 }
 
+.name {
+    display: flex;
+    justify-content: space-around;
+}
+
 .heading,
 .desc,
 .ing,
-.ins,
-.name {text-align: center;}
+.ins {
+    text-align: center;
+}
 
 .heading {
     color: grey;
@@ -20,4 +32,3 @@ img {
     background-color: bisque;
     color: darkolivegreen;
 }
-
